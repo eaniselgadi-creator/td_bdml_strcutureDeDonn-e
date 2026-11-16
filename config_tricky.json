@@ -1,0 +1,6 @@
+{
+  "experiment": "knn_flowers",
+  "description": "braces test {inside a string",
+  "split": { "test_ratio": 0.2 },
+  "model": { "type": "knn", "k": [5] }
+}
